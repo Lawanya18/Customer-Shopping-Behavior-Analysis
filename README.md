@@ -100,6 +100,8 @@ The Power BI dashboard brings the analysis together into an interactive report.
   * Gender
   * Category
   * Shipping Type
+ 
+  ![Customer Shopping Behavior Power BI Dashboard](customer-shopping-behavior-dashboard.png)
 
 The Power BI report is available in:
 
@@ -151,6 +153,36 @@ This project demonstrates practical skills in:
 * Power BI dashboard development
 * Data storytelling
 * Translating data into business insights
+
+---
+
+## 💼 Business Recommendations
+
+Based on the analysis, the following business actions could be explored:
+
+### 1. Strengthen subscription engagement
+
+The analysis shows a relatively low overall subscription share compared with non-subscribers. The business could test clearer subscription benefits, targeted offers, or personalized incentives to encourage more customers to subscribe.
+
+### 2. Focus on high-performing product categories
+
+Clothing and Accessories contribute a larger share of revenue than the other categories in the dataset. These categories could be analyzed further to understand which products, customer groups, and purchasing patterns are driving their performance.
+
+### 3. Investigate customer retention opportunities
+
+The customer segmentation analysis shows a much larger Loyal customer group than Returning customers. Further analysis could identify what differentiates these groups and help design campaigns aimed at increasing repeat purchasing.
+
+### 4. Use customer segmentation for targeted marketing
+
+Different customer groups show different purchasing behaviors. Marketing campaigns could be tailored by customer segment, age group, product preference, and subscription status rather than using the same offer for every customer.
+
+### 5. Monitor product ratings alongside sales
+
+High-rated products can provide useful signals about customer satisfaction. Combining product ratings with sales and revenue data could help identify products that are both well-received and commercially important.
+
+### 6. Explore age-group purchasing patterns
+
+Average purchase amounts vary across age groups. The business could use these differences to test age-specific product recommendations, promotions, and marketing strategies.
 
 ---
 
